@@ -14,4 +14,5 @@ In this project, we implemented our own cryptocurrency using Blockchain technolo
 
 ## Text Channels
 📜transactions: shows all the transactions that have taken place where each transaction has a TransactionID, Time, Sender, Receiver
+
 🔗chain-of-blocks: shows all the blocks (a set of transactions) that have been committed on the chain
