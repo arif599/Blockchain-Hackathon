@@ -3,7 +3,11 @@ In this project, we implemented our own cryptocurrency using Blockchain technolo
 
 # Bot commands
 !pay @mention [amount] : Pay discord user [amount]
+
 !balance : Displays balance of user
+
 !history : Displays all transactions of user
+
 !playgg : Lets you play a gussing game to earn coins
+
 !rps : Lets you play a Rock, Paper, Scissors game to earn coins
